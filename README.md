@@ -1,5 +1,5 @@
 # cse210-ww-student-template
-Emilio Ordonez Guerrero
+Emilio Ordonez Guerrero - CSE 210
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
